@@ -1,2 +1,5 @@
-Hi, I am  @author Manjeet Kumar
-This is Code where you can see about the stream and parallel streams.
+- 👋 Hi, I’m @ManjeetKumarSingh
+- 👀 I’m interested in , Programming like Java, Js , React , Redux ,Google appengine.
+- 🌱 I’m currently learning Python and Gradle migration
+- 💞️ I’m looking to collaborate on anything related to java and React
+- 📫 How to reach me -->  @manjeet260190@gmail.com
